@@ -46,11 +46,11 @@ This project was developed using:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/your-repository-name.git
+   git clone https://github.com/Roshami/Grinny-Online-Store.git
 
 2. **Navigate to the project folder:**
    ```bash
-   cd your-repository-name
+   cd Grinny-Online-Store
 
 3. **Open _index.html_ in a web browser.**
 
