@@ -14,16 +14,20 @@ Users can view product images, prices, and place orders.
 
 ## 🖥️ Screenshots
 
-### 🏠 Home Page
-![Home Page](screenshots/homepage.png)
-
 ### 📦 Product Listing
-![Product Listing](screenshots/products.png)
+![Product Listing](screenshots/home_elastic.png)
+
+![Product Listing](screenshots/home_hairBands.png)
+
+![Product Listing](screenshots/home_ribbons.png)
+
+![Product Listing](screenshots/home_woolBands.png)
 
 ### 🛒 Order Section
-![Order Section](screenshots/orders.png)
+![Order Section](screenshots/Buy.png)
 
-*(Make sure to add actual screenshots to the `screenshots/` folder in your repository.)*
+![Order Section](screenshots/Buy_order.png)
+
 
 ## 🛠️ Technologies Used
 
