@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+}
+
+header{
+    background-color: rgb(213 213 213);
+    padding: 15px;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+}
+
+header li{
+    display: inline;
+    text-decoration: none;
+    margin-left: 50px;
+    font-size: 1.2em;
+    color: darkblue;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header a{
+    text-decoration: none;
+}
+
+header ol{
+    margin-top: -40px;
+    text-align: center;
+    padding: 15px;
+}
+
+header h1{
+    font-size: 2.5em;
+    margin-left: 10px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: olivedrab;
+}
+
+header ol li a:hover:not(.active) {
+    color:green;
+    cursor: pointer;
+    transition-duration: 0.5s;
+}
+
+.active{
+    text-decoration: underline;
+}
+
+@media only screen and (max-width: 750px){
+    header ol{
+        margin-top: 0;
+        margin-left: -30px;
+    }
+}
